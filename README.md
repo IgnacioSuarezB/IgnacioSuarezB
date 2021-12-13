@@ -6,7 +6,7 @@
 let aboutMe = {
    pronouns: "he" | "him",
    askMeAbout:["web dev", "tech", "games", "crypto", "web 3.0"],
-   code: [Javascript, HTML, CSS, C, C++],
+   code: [Javascript, HTML, CSS, C++],
    technologies: {
       frontEnd: {
             js: ["React"],
@@ -23,3 +23,5 @@ let aboutMe = {
 ```
 </br></br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacio-suarez-barraza/)](https://www.linkedin.com/in/ignacio-suarez-barraza/)
+
+[Curriculum](https://drive.google.com/file/d/18AmwEO3c0pWWzpwBeZZjO7N23NSM5PtI/view?usp=sharing "Curriculum Vitae")
