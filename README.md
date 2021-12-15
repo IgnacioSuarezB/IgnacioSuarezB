@@ -4,12 +4,11 @@
 
 ```javascript
 let aboutMe = {
-   pronouns: "he" | "him",
    askMeAbout:["web dev", "tech", "games", "crypto", "web 3.0"],
    code: [Javascript, HTML, CSS, C++],
    technologies: {
       frontEnd: {
-            js: ["React"],
+            js: ["jQuery", "React"],
             css: ["Bootstrap", "SASS"]
                },
       backEnd: {
